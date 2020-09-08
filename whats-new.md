@@ -1,5 +1,5 @@
 ---
-description: Asegúrate de no perderte nada. Esto es lo último que tenemos para ti.
+description: Asegúrate de no perderte nada. Esto es lo último que hemos hecho.
 ---
 
 # ¿Aún no te has enterado?
